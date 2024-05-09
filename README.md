@@ -31,7 +31,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudmadushanka&show_icons=true&locale=en" alt="tharindudmadushanka" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudmadushanka&" alt="tharindudmadushanka" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudmadushanka&show_icons=true&locale=en" alt="tharindudmadushanka" /</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudmadushanka&" alt="tharindudmadushanka" /></p>
 
