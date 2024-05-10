@@ -20,16 +20,17 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
 <!---(Start) Contact me -->
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tharindu-d-madushanaka-94a958306/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu d. madushanka" height="30" width="40" /></a>
 <a href="[https://fb.com/tharindu d madushanka](https://web.facebook.com/tharindu.dmadushanka)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindu d madushanka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/tharindudmadush1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tharindudmadush1" height="30" width="40" /></a>
-</p><br>
+</p><br> -->
 
 <!---(End) Contact me -->
 
-
+## Tech Stack:
 
 <!---(Start) Languages -->
 <h3 align="left">Languages</h3>
@@ -67,4 +68,10 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+## Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tharindu-d-madushanaka-94a958306/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://web.facebook.com/tharindu.dmadushanka" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://www.instagram.com/tharindud_madushanka/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tharindu_madushanka"/></a><a href="https://www.hackerrank.com/profile/tharindudmadush1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="tharindu_madushanka"/></a>
+</p>
 
