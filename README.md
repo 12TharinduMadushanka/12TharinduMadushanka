@@ -43,8 +43,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h3 align="left">IDE</h3>
-<p> <a href=""> <img src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="vs_code" width="100" height="30"> </a>
-<a href="" > <img src="https://camo.githubusercontent.com/b5fbd6962c99ed5037a12c67b8d51d7045b1a2381168614809a75d01a22e846b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465" alt="inteliij" width="100" height="30"> </a></p>
+<p> 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode&perline=2" />
+  </a>
+</p>
 
 <br>
 
@@ -76,5 +79,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tharindu-d-madushanaka-94a958306/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://web.facebook.com/tharindu.dmadushanka" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://www.instagram.com/tharindud_madushanka/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tharindu_madushanka"/></a><a href="https://www.hackerrank.com/profile/tharindudmadush1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="tharindu_madushanka"/></a>
+</p>
+<br><br>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
