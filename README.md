@@ -70,6 +70,8 @@
 </table>
 <!--- stats (end) -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharinduDMadushanka&theme=tokyonight)
+
 ## Connect with me:
 
 <p align="left">
