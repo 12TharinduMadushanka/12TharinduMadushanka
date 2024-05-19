@@ -40,7 +40,11 @@
 <!---(End) Languages -->
 <br>  
 <h3 align="left">Databases</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> 
+
+<br>
+<h3 align="left">Terminals</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <h3 align="left">IDE</h3>
 <p> 
