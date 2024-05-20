@@ -44,7 +44,10 @@
 
 <br>
 <h3 align="left">Terminals</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> </p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/2560px-Windows_Terminal_logo.svg.png" alt="git" width="40" height="40" 
+border-radius:50px /> </a> </p>
+
 
 <h3 align="left">IDE</h3>
 <p> 
