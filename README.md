@@ -52,7 +52,7 @@ border-radius:50px /> </a> </p>
 <h3 align="left">IDE</h3>
 <p> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode&perline=2" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm&perline=3" />
   </a>
 </p>
 
