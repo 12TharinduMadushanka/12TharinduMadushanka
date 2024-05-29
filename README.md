@@ -1,6 +1,8 @@
+<!---Introduce -->
 <h1 align="center">Hi there I'm Tharindu Dilshan Madushanka</h1>
 <h3 align="center">Passionate IT Student | Forever learning | Coding forward always </h3>
 
+<!---Large Image -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=12tharindumadushanka&label=Profile%20views&color=0e75b6&style=flat" alt="12tharindumadushanka" /> </p>
 
 <!--horizontal divider(gradiant)-->
@@ -34,6 +36,7 @@
 
 <!---(Start) Languages -->
 <h3 align="left">Languages</h3>
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a><br>
 
@@ -87,7 +90,12 @@
 <a href="https://www.linkedin.com/in/tharindu-d-madushanaka-94a958306/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://web.facebook.com/tharindu.dmadushanka" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tharindu_madushanka" /></a><a href="https://www.instagram.com/tharindud_madushanka/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tharindu_madushanka"/></a><a href="https://www.hackerrank.com/profile/tharindudmadush1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="tharindu_madushanka"/></a>
 </p>
 <br><br>
+
+<!--- Quato -->
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+<br>
 
+<!--- Thank You -->
+![footer](https://capsule-render.vercel.app/api?type=waving&text=Thank%You%!&fontSize=40&animation=twinkling&color=timeGradient&height=80&section=footer&reversal=true)
