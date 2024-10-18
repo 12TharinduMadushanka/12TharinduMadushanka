@@ -22,6 +22,8 @@
 
 - 🌱 I’m currently learning **CMJD - Comprehensive Master Java Developer | IJSE**
 
+- 📝 Explore my blogs on **https://medium.com/@tharindu_madushanka** 
+
 - 📫 How to reach me **tharindudmadushanka920@gmail.com**
 
 <!--- (End) My studies -->
